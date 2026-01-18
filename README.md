@@ -1,4 +1,4 @@
-# Rasha Multi-Agent Research Project
+# Multi-Agent Research Project
 
 This project leverages multiple AI agents (Informational, Interpersonal, Decision Making) to study their impact on human-AI collaboration in a research setting.
 

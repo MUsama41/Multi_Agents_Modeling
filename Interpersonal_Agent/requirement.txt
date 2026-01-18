@@ -1,7 +1,0 @@
-flask
-streamlit
-requests
-langchain_groq
-langchain_core
-tavily-python
-requests

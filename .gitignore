@@ -1,0 +1,35 @@
+# Python Virtual Environments
+venv/
+env/
+.env
+myenv/
+.venv/
+bin/
+include/
+lib/
+share/
+pyvenv.cfg
+
+# Build/Dist
+build/
+dist/
+*.spec
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Secrets & Keys
+.env
+*.pem
+*.key
+*.cert
+secrets/
+credentials.json
+KP_1.pem
+
+# OS & IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*.bak

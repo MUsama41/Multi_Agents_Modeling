@@ -1,7 +1,0 @@
-[
-    {"ID": "012345", "Gender": "Male", "Job": "Data Analyst", "Location": "NY, USA", "Experience": "5 years"},
-    {"ID": "013424", "Gender": "Female", "Job": "Software Developer", "Location": "FL, USA", "Experience": "12 years"},
-    {"ID": "112233", "Gender": "Male", "Job": "Data Scientist", "Location": "CA, USA", "Experience": "8 years"},
-    {"ID": "223344", "Gender": "Female", "Job": "Backend Developer", "Location": "TX, USA", "Experience": "6 years"}
-]
-  

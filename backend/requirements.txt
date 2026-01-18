@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+langchain-groq
+tavily-python
+python-dotenv
+pydantic-settings
+sqlalchemy
+psycopg2-binary
+pydantic
